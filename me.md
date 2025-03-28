@@ -1,4 +1,4 @@
-# Boolean Algebra: Insanely Hard Mixed Problems
+# Boolean Algebra: Hard Mixed Problems
 
 1. (A XOR B) NOR (¬A → B) AND (B NAND ¬A)  
 2. ((A → B) XOR (B ⊕ ¬A)) NAND (A NOR B)  
