@@ -10,4 +10,3 @@
 8. ((A NAND B) → (B NOR A)) XOR (A → ¬B)  
 9. ((A XOR B) NAND (¬A ⊕ B)) NOR (A → B)  
 10. (A NOR (B → A)) XNOR (¬(A ⊕ B) OR (A NAND B))  
-
